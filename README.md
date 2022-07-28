@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mvrius4
+- 👀 I’m passionate about Web Development and Graphic Design.
+- 🌱 I’m currently learning React JS, planing to move on Next JS.
+- 💞️ I’m looking to create different projects, like websites or UI designs.
+- 📫 You can reach me on Discord: mvrius#2111.
